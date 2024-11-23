@@ -1,1 +1,253 @@
-eyJwbHVnaW5faW5mbyI6eyJib3RfNSI6eyJ0eXBlIjoiYm90X2NvcmUiLCJkZXNjcmlwdGlvbiI6IkJPVOi6sumBvy/pooTliKTmoLjlv4MiLCJhdXRob3IiOiJIYW5CT1QgVEVBTSJ9LCJzaGFyZHMiOnsidHlwZSI6ImJvdF9jb3JlIiwiZGVzY3JpcHRpb24iOiJCT1TohJrmnKzog5znjofmlbDmja4t5bm26Z2e5a6e5pe2LCDlj6/ku6XkuI3mm7TmlrAiLCJhdXRob3IiOiJIYW5CT1QgVEVBTSJ9LCJBbGV4aXMgQUlPIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiQWxleGlzIOWQiOmbhiIsImF1dGhvciI6IkFsZXhpcyJ9LCJBbGV4aXMgQXV0aCI6eyJ0eXBlIjoibGlicmFyeSIsImRlc2NyaXB0aW9uIjoiQWxleGlzIOWQiOmbhumqjOivgeWZqCIsImF1dGhvciI6IkFsZXhpcyJ9LCJBcmNoZXJBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJBcmNoZXIg5ZCI6ZuGIiwiYXV0aG9yIjoiQXJjaGVyIn0sIkNTWCBBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJDU1gg5ZCI6ZuGIiwiYXV0aG9yIjoiQ1NYIn0sIkNYSiBBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJDWEog5ZCI6ZuGIiwiYXV0aG9yIjoiQ1hKIn0sIkNObzFBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJDTm8xIOWQiOmbhiIsImF1dGhvciI6IlB1cnBsZU9jZWFuIn0sIkNObzFTbWl0ZSI6eyJ0eXBlIjoidXRpbGl0eSIsImRlc2NyaXB0aW9uIjoiQ05vMSDoh6rliqjmg6nmiJIiLCJhdXRob3IiOiJQdXJwbGVPY2VhbiJ9LCJDTm8xVXRpbGl0eSI6eyJ0eXBlIjoidXRpbGl0eSIsImRlc2NyaXB0aW9uIjoiQ05vMSDlip/og73lkIjpm4YiLCJhdXRob3IiOiJQdXJwbGVPY2VhbiJ9LCJDdXN0b20gUGVybWFzaG93Ijp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoi6Ieq5a6a5LmJ5rC05Y2wLeivt+S9v+eUqE1hc3Rlcua0u+WMluWJguabv+S7oyIsImF1dGhvciI6Ik1hc3RlciJ9LCJEYW5aQUlPIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiRGFuWiDlkIjpm4YiLCJhdXRob3IiOiJEYW5aIn0sIkRlbW9uQUlPIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiRGVtb24g5oG26a2U5ZCI6ZuGIiwiYXV0aG9yIjoiRGVtb24ifSwiRGVtb25fQWN0aXZhdG9yIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiRGVtb24g5oG26a2U5rS75YyW5YmCIiwiYXV0aG9yIjoiRGVtb24ifSwiRXpBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJFeiDlkIjpm4YiLCJhdXRob3IiOiJVbmtub3cifSwiRmF0YWxpdHkiOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJGYXRhbGl0eSDlkIjpm4YiLCJhdXRob3IiOiJVbmtub3cifSwiRngiOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJGeCDlkIjpm4YiLCJhdXRob3IiOiJGeOiAgeW4iCJ9LCJGeEFjdGl2YXRvciI6eyJ0eXBlIjoiYWN0aXZhdG9yIiwiZGVzY3JpcHRpb24iOiJGeCDmtLvljJbliYIiLCJhdXRob3IiOiJGeOiAgeW4iCJ9LCJGeExpYiI6eyJ0eXBlIjoibGlicmFyeSIsImRlc2NyaXB0aW9uIjoiRngg5b+F5aSH5bqTIiwiYXV0aG9yIjoiRnjogIHluIgifSwiRnhUb29scyI6eyJ0eXBlIjoidXRpbGl0eSIsImRlc2NyaXB0aW9uIjoiRngg5bel5YW36ZuGIiwiYXV0aG9yIjoiRnjogIHluIgifSwiRnhUcmFja2VyIjp7InR5cGUiOiJhd2FyZW5lc3MiLCJkZXNjcmlwdGlvbiI6IkZ4IOaEj+ivhiIsImF1dGhvciI6IkZ46ICB5biIIn0sIkdHIEFJTyI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6IkdH5ZCI6ZuGIiwiYXV0aG9yIjoiR0cifSwiSGFuYm90IEJlYXN0eSI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6IkhhbmJvdCBCZWFzdHkg5ZCI6ZuGIiwiYXV0aG9yIjoiVW5rbm93In0sIkhlYWxlciBBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJIZWFsZXItSOWQiOmbhiIsImF1dGhvciI6IkhlYWxlciJ9LCJJbnRBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJJbnTlkIjpm4YiLCJhdXRob3IiOiJJbnQifSwiSlVTVCAtIEFJTyI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6IkpVU1Qg5ZCI6ZuGIiwiYXV0aG9yIjoiVW5rbm93In0sIktpcmkgQUlPIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiS2lyaS3mlrBLIOWQiOmbhiIsImF1dGhvciI6IktpcmkifSwiS2xlZUFJTyI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6IktsZWUg5ZCI6ZuGIiwiYXV0aG9yIjoiS2xlZSJ9LCJLbGVlVXRpbHMiOnsidHlwZSI6InV0aWxpdHkiLCJkZXNjcmlwdGlvbiI6IktsZWUg5rS75YyW5YmC5Yqf6IO95ZCI6ZuGIiwiYXV0aG9yIjoiS2xlZSJ9LCJLb3JuaXMgQUlPIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiS29ybmlzLeiAgUvlkIjpm4YiLCJhdXRob3IiOiJLb3JuaXMifSwiTWFnZSBBSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJNYWdlIOWQiOmbhiIsImF1dGhvciI6Ik1hZ2UifSwiTWFzdGVyQWN0aXZhdG9yIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiTea0u+WMluWJgiIsImF1dGhvciI6Ik1hc3RlciJ9LCJNYXN0ZXJBaW8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJN5ZCI6ZuGIiwiYXV0aG9yIjoiTWFzdGVyIn0sIk1vb24gVXRpbGl0eSI6eyJ0eXBlIjoib3RoZXIiLCJkZXNjcmlwdGlvbiI6IuacquefpSIsImF1dGhvciI6IlVua25vdyJ9LCJQaXhlbC1BSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJQaXhlbOWQiOmbhihMU+enu+akjeezu+WIlykiLCJhdXRob3IiOiJQaXhlbCJ9LCJRLUFpbyI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6IlHlkIjpm4YiLCJhdXRob3IiOiJR6ICB5biIIn0sIlJYaW5nIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiUuaYn+WQiOmbhiIsImF1dGhvciI6IlLmmJ8ifSwiU0FfQUlPIjp7InR5cGUiOiJjaGFtcGlvbiIsImRlc2NyaXB0aW9uIjoiU0Eg5ZCI6ZuGIiwiYXV0aG9yIjoiaXNhcyJ9LCJTUC1BSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJTUCDlkIjpm4YiLCJhdXRob3IiOiJTUCJ9LCJbQnJpYW5TaGFycF0gQWN0aXZhdG9yIjp7InR5cGUiOiJhY3RpdmF0b3IiLCJkZXNjcmlwdGlvbiI6IkJTIOa0u+WMluWJgiIsImF1dGhvciI6IkJTIn0sIltCcmlhblNoYXJwXSBTdWNjZXNzZnVsbCI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6IkJTIOWQiOmbhiIsImF1dGhvciI6IkJTIn0sIltIR1Byb11BSU8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiLnmoflhqBQcm/lkIjpm4YiLCJhdXRob3IiOiLnmoflhqAifSwiW0hHVmlwXUFJTyI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6Iueah+WGoFZJUOWQiOmbhiIsImF1dGhvciI6Iueah+WGoCJ9LCJbVmlrdG9yXUFJTyI6eyJ0eXBlIjoiY2hhbXBpb24iLCJkZXNjcmlwdGlvbiI6IlblkIjpm4YiLCJhdXRob3IiOiJWaWt0b3IifSwiW1Zpa3Rvcl1FdmFkZSI6eyJ0eXBlIjoiZXZhZGUiLCJkZXNjcmlwdGlvbiI6IlbourLpgb8iLCJhdXRob3IiOiJWaWt0b3IifSwiW1Zpa3Rvcl1VdGlsaXR5Ijp7InR5cGUiOiJhY3RpdmF0b3IiLCJkZXNjcmlwdGlvbiI6IlbmtLvljJbliYIiLCJhdXRob3IiOiJWaWt0b3IifSwibHVuYS1haW8iOnsidHlwZSI6ImNoYW1waW9uIiwiZGVzY3JpcHRpb24iOiJMdW5hIOWQiOmbhiIsImF1dGhvciI6Ikx1bmEifSwibHVuYS11dGlscyI6eyJ0eXBlIjoiYWN0aXZhdG9yIiwiZGVzY3JpcHRpb24iOiJMdW5hIOa0u+WMluWJguWKn+iDveWQiOmbhiIsImF1dGhvciI6Ikx1bmEifX0sImNvbmZpZ19hdXRob3IiOnsiTWUiOnsiVXBkYXRlX1RpbWUiOiIyMDI05bm0MTHmnIgyNOaXpSIsIlVwZGF0ZV9GaWxlIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25vdHVybm9udGhpc29BL21lX2NvbmZpZy9oZWFkcy9tYXN0ZXIvbWVfYm90LnppcCIsIkNoYW5nZV9Mb2ciOiJ1bmtub3cifX0sImxvYWRlcl9ub3RlIjoi5Yid54mI5Y+R5biDXG4xLjAiLCJsb2FkZXJfdmVyIjoiMS4wLjAuMCJ9
+{
+    "plugin_info": {
+        "bot_5": {
+            "type": "bot_core",
+            "description": "BOT躲避/预判核心",
+            "author": "HanBOT TEAM"
+        },
+        "shards": {
+            "type": "bot_core",
+            "description": "BOT脚本胜率数据-并非实时, 可以不更新",
+            "author": "HanBOT TEAM"
+        },
+        "Alexis AIO": {
+            "type": "champion",
+            "description": "Alexis 合集",
+            "author": "Alexis"
+        },
+        "Alexis Auth": {
+            "type": "library",
+            "description": "Alexis 合集验证器",
+            "author": "Alexis"
+        },
+        "ArcherAIO": {
+            "type": "champion",
+            "description": "Archer 合集",
+            "author": "Archer"
+        },
+        "CSX AIO": {
+            "type": "champion",
+            "description": "CSX 合集",
+            "author": "CSX"
+        },
+        "CXJ AIO": {
+            "type": "champion",
+            "description": "CXJ 合集",
+            "author": "CXJ"
+        },
+        "CNo1AIO": {
+            "type": "champion",
+            "description": "CNo1 合集",
+            "author": "PurpleOcean"
+        },
+        "CNo1Smite": {
+            "type": "utility",
+            "description": "CNo1 自动惩戒",
+            "author": "PurpleOcean"
+        },
+        "CNo1Utility": {
+            "type": "utility",
+            "description": "CNo1 功能合集",
+            "author": "PurpleOcean"
+        },
+        "Custom Permashow": {
+            "type": "champion",
+            "description": "自定义水印-请使用Master活化剂替代",
+            "author": "Master"
+        },
+        "DanZAIO": {
+            "type": "champion",
+            "description": "DanZ 合集",
+            "author": "DanZ"
+        },
+        "DemonAIO": {
+            "type": "champion",
+            "description": "Demon 恶魔合集",
+            "author": "Demon"
+        },
+        "Demon_Activator": {
+            "type": "champion",
+            "description": "Demon 恶魔活化剂",
+            "author": "Demon"
+        },
+        "EzAIO": {
+            "type": "champion",
+            "description": "Ez 合集",
+            "author": "Unknow"
+        },
+        "Fatality": {
+            "type": "champion",
+            "description": "Fatality 合集",
+            "author": "Unknow"
+        },
+        "Fx": {
+            "type": "champion",
+            "description": "Fx 合集",
+            "author": "Fx老师"
+        },
+        "FxActivator": {
+            "type": "activator",
+            "description": "Fx 活化剂",
+            "author": "Fx老师"
+        },
+        "FxLib": {
+            "type": "library",
+            "description": "Fx 必备库",
+            "author": "Fx老师"
+        },
+        "FxTools": {
+            "type": "utility",
+            "description": "Fx 工具集",
+            "author": "Fx老师"
+        },
+        "FxTracker": {
+            "type": "awareness",
+            "description": "Fx 意识",
+            "author": "Fx老师"
+        },
+        "GG AIO": {
+            "type": "champion",
+            "description": "GG合集",
+            "author": "GG"
+        },
+        "Hanbot Beasty": {
+            "type": "champion",
+            "description": "Hanbot Beasty 合集",
+            "author": "Unknow"
+        },
+        "Healer AIO": {
+            "type": "champion",
+            "description": "Healer-H合集",
+            "author": "Healer"
+        },
+        "IntAIO": {
+            "type": "champion",
+            "description": "Int合集",
+            "author": "Int"
+        },
+        "JUST - AIO": {
+            "type": "champion",
+            "description": "JUST 合集",
+            "author": "Unknow"
+        },
+        "Kiri AIO": {
+            "type": "champion",
+            "description": "Kiri-新K 合集",
+            "author": "Kiri"
+        },
+        "KleeAIO": {
+            "type": "champion",
+            "description": "Klee 合集",
+            "author": "Klee"
+        },
+        "KleeUtils": {
+            "type": "utility",
+            "description": "Klee 活化剂功能合集",
+            "author": "Klee"
+        },
+        "Kornis AIO": {
+            "type": "champion",
+            "description": "Kornis-老K合集",
+            "author": "Kornis"
+        },
+        "Mage AIO": {
+            "type": "champion",
+            "description": "Mage 合集",
+            "author": "Mage"
+        },
+        "MasterActivator": {
+            "type": "champion",
+            "description": "M活化剂",
+            "author": "Master"
+        },
+        "MasterAio": {
+            "type": "champion",
+            "description": "M合集",
+            "author": "Master"
+        },
+        "Moon Utility": {
+            "type": "other",
+            "description": "未知",
+            "author": "Unknow"
+        },
+        "Pixel-AIO": {
+            "type": "champion",
+            "description": "Pixel合集(LS移植系列)",
+            "author": "Pixel"
+        },
+        "Q-Aio": {
+            "type": "champion",
+            "description": "Q合集",
+            "author": "Q老师"
+        },
+        "RXing": {
+            "type": "champion",
+            "description": "R星合集",
+            "author": "R星"
+        },
+        "SA_AIO": {
+            "type": "champion",
+            "description": "SA 合集",
+            "author": "isas"
+        },
+        "SP-AIO": {
+            "type": "champion",
+            "description": "SP 合集",
+            "author": "SP"
+        },
+        "[BrianSharp] Activator": {
+            "type": "activator",
+            "description": "BS 活化剂",
+            "author": "BS"
+        },
+        "[BrianSharp] Successfull": {
+            "type": "champion",
+            "description": "BS 合集",
+            "author": "BS"
+        },
+        "[HGPro]AIO": {
+            "type": "champion",
+            "description": "皇冠Pro合集",
+            "author": "皇冠"
+        },
+        "[HGVip]AIO": {
+            "type": "champion",
+            "description": "皇冠VIP合集",
+            "author": "皇冠"
+        },
+        "[Viktor]AIO": {
+            "type": "champion",
+            "description": "V合集",
+            "author": "Viktor"
+        },
+        "[Viktor]Evade": {
+            "type": "evade",
+            "description": "V躲避",
+            "author": "Viktor"
+        },
+        "[Viktor]Utility": {
+            "type": "activator",
+            "description": "V活化剂",
+            "author": "Viktor"
+        },
+        "luna-aio": {
+            "type": "champion",
+            "description": "Luna 合集",
+            "author": "Luna"
+        },
+        "luna-utils": {
+            "type": "activator",
+            "description": "Luna 活化剂功能合集",
+            "author": "Luna"
+        }
+    },
+    "config_author": {
+        "Me": {
+            "Update_Time": "2024年11月24日",
+            "Update_File": "https://raw.githubusercontent.com/noturnonthisoA/me_config/heads/master/me_bot.zip",
+            "Change_Log": "unknow"
+        }
+    },
+    "loader_note": "初版发布\n1.0",
+    "loader_ver": "1.0.0.0"
+}
