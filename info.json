@@ -1,253 +1,270 @@
 {
-    "plugin_info": {
-        "bot_5": {
-            "type": "bot_core",
-            "description": "BOT躲避/预判核心",
-            "author": "HanBOT TEAM"
-        },
-        "shards": {
-            "type": "bot_core",
-            "description": "BOT脚本胜率数据-并非实时, 可以不更新",
-            "author": "HanBOT TEAM"
-        },
-        "Alexis AIO": {
-            "type": "champion",
-            "description": "Alexis 合集",
-            "author": "Alexis"
-        },
-        "Alexis Auth": {
-            "type": "library",
-            "description": "Alexis 合集验证器",
-            "author": "Alexis"
-        },
-        "ArcherAIO": {
-            "type": "champion",
-            "description": "Archer 合集",
-            "author": "Archer"
-        },
-        "CSX AIO": {
-            "type": "champion",
-            "description": "CSX 合集",
-            "author": "CSX"
-        },
-        "CXJ AIO": {
-            "type": "champion",
-            "description": "CXJ 合集",
-            "author": "CXJ"
-        },
-        "CNo1AIO": {
-            "type": "champion",
-            "description": "CNo1 合集",
-            "author": "PurpleOcean"
-        },
-        "CNo1Smite": {
-            "type": "utility",
-            "description": "CNo1 自动惩戒",
-            "author": "PurpleOcean"
-        },
-        "CNo1Utility": {
-            "type": "utility",
-            "description": "CNo1 功能合集",
-            "author": "PurpleOcean"
-        },
-        "Custom Permashow": {
-            "type": "champion",
-            "description": "自定义水印-请使用Master活化剂替代",
-            "author": "Master"
-        },
-        "DanZAIO": {
-            "type": "champion",
-            "description": "DanZ 合集",
-            "author": "DanZ"
-        },
-        "DemonAIO": {
-            "type": "champion",
-            "description": "Demon 恶魔合集",
-            "author": "Demon"
-        },
-        "Demon_Activator": {
-            "type": "champion",
-            "description": "Demon 恶魔活化剂",
-            "author": "Demon"
-        },
-        "EzAIO": {
-            "type": "champion",
-            "description": "Ez 合集",
-            "author": "Unknow"
-        },
-        "Fatality": {
-            "type": "champion",
-            "description": "Fatality 合集",
-            "author": "Unknow"
-        },
-        "Fx": {
-            "type": "champion",
-            "description": "Fx 合集",
-            "author": "Fx老师"
-        },
-        "FxActivator": {
-            "type": "activator",
-            "description": "Fx 活化剂",
-            "author": "Fx老师"
-        },
-        "FxLib": {
-            "type": "library",
-            "description": "Fx 必备库",
-            "author": "Fx老师"
-        },
-        "FxTools": {
-            "type": "utility",
-            "description": "Fx 工具集",
-            "author": "Fx老师"
-        },
-        "FxTracker": {
-            "type": "awareness",
-            "description": "Fx 意识",
-            "author": "Fx老师"
-        },
-        "GG AIO": {
-            "type": "champion",
-            "description": "GG合集",
-            "author": "GG"
-        },
-        "Hanbot Beasty": {
-            "type": "champion",
-            "description": "Hanbot Beasty 合集",
-            "author": "Unknow"
-        },
-        "Healer AIO": {
-            "type": "champion",
-            "description": "Healer-H合集",
-            "author": "Healer"
-        },
-        "IntAIO": {
-            "type": "champion",
-            "description": "Int合集",
-            "author": "Int"
-        },
-        "JUST - AIO": {
-            "type": "champion",
-            "description": "JUST 合集",
-            "author": "Unknow"
-        },
-        "Kiri AIO": {
-            "type": "champion",
-            "description": "Kiri-新K 合集",
-            "author": "Kiri"
-        },
-        "KleeAIO": {
-            "type": "champion",
-            "description": "Klee 合集",
-            "author": "Klee"
-        },
-        "KleeUtils": {
-            "type": "utility",
-            "description": "Klee 活化剂功能合集",
-            "author": "Klee"
-        },
-        "Kornis AIO": {
-            "type": "champion",
-            "description": "Kornis-老K合集",
-            "author": "Kornis"
-        },
-        "Mage AIO": {
-            "type": "champion",
-            "description": "Mage 合集",
-            "author": "Mage"
-        },
-        "MasterActivator": {
-            "type": "champion",
-            "description": "M活化剂",
-            "author": "Master"
-        },
-        "MasterAio": {
-            "type": "champion",
-            "description": "M合集",
-            "author": "Master"
-        },
-        "Moon Utility": {
-            "type": "other",
-            "description": "未知",
-            "author": "Unknow"
-        },
-        "Pixel-AIO": {
-            "type": "champion",
-            "description": "Pixel合集(LS移植系列)",
-            "author": "Pixel"
-        },
-        "Q-Aio": {
-            "type": "champion",
-            "description": "Q合集",
-            "author": "Q老师"
-        },
-        "RXing": {
-            "type": "champion",
-            "description": "R星合集",
-            "author": "R星"
-        },
-        "SA_AIO": {
-            "type": "champion",
-            "description": "SA 合集",
-            "author": "isas"
-        },
-        "SP-AIO": {
-            "type": "champion",
-            "description": "SP 合集",
-            "author": "SP"
-        },
-        "[BrianSharp] Activator": {
-            "type": "activator",
-            "description": "BS 活化剂",
-            "author": "BS"
-        },
-        "[BrianSharp] Successfull": {
-            "type": "champion",
-            "description": "BS 合集",
-            "author": "BS"
-        },
-        "[HGPro]AIO": {
-            "type": "champion",
-            "description": "皇冠Pro合集",
-            "author": "皇冠"
-        },
-        "[HGVip]AIO": {
-            "type": "champion",
-            "description": "皇冠VIP合集",
-            "author": "皇冠"
-        },
-        "[Viktor]AIO": {
-            "type": "champion",
-            "description": "V合集",
-            "author": "Viktor"
-        },
-        "[Viktor]Evade": {
-            "type": "evade",
-            "description": "V躲避",
-            "author": "Viktor"
-        },
-        "[Viktor]Utility": {
-            "type": "activator",
-            "description": "V活化剂",
-            "author": "Viktor"
-        },
-        "luna-aio": {
-            "type": "champion",
-            "description": "Luna 合集",
-            "author": "Luna"
-        },
-        "luna-utils": {
-            "type": "activator",
-            "description": "Luna 活化剂功能合集",
-            "author": "Luna"
-        }
-    },
-    "config_author": {
-        "Me": {
-            "Update_Time": "2024年11月24日",
-            "Update_File": "https://raw.githubusercontent.com/noturnonthisoA/me_config/heads/master/me_bot.zip",
-            "Change_Log": "unknow"
-        }
-    },
-    "loader_note": "初版发布\n1.0",
-    "loader_ver": "1.0.0.0"
+	"plugin_info": {
+		"bot_5": {
+			"type": "bot_core",
+			"description": "BOT躲避/预判核心",
+			"author": "HanBOT TEAM"
+		},
+		"shards": {
+			"type": "bot_core",
+			"description": "BOT脚本胜率数据-并非实时, 可以不更新",
+			"author": "HanBOT TEAM"
+		},
+		"Alexis AIO": {
+			"type": "champion",
+			"description": "Alexis 合集",
+			"author": "Alexis"
+		},
+		"Alexis Auth": {
+			"type": "library",
+			"description": "Alexis 合集验证器",
+			"author": "Alexis"
+		},
+		"ArcherAIO": {
+			"type": "champion",
+			"description": "Archer 合集",
+			"author": "Archer"
+		},
+		"CSX AIO": {
+			"type": "champion",
+			"description": "CSX 合集",
+			"author": "CSX"
+		},
+		"CXJ AIO": {
+			"type": "champion",
+			"description": "CXJ 合集",
+			"author": "CXJ"
+		},
+		"CNo1AIO": {
+			"type": "champion",
+			"description": "CNo1 合集",
+			"author": "PurpleOcean"
+		},
+		"CNo1Smite": {
+			"type": "utility",
+			"description": "CNo1 自动惩戒",
+			"author": "PurpleOcean"
+		},
+		"CNo1Utility": {
+			"type": "utility",
+			"description": "CNo1 功能合集",
+			"author": "PurpleOcean"
+		},
+		"Custom Permashow": {
+			"type": "champion",
+			"description": "自定义水印-请使用Master活化剂替代",
+			"author": "Master"
+		},
+		"DanZAIO": {
+			"type": "champion",
+			"description": "DanZ 合集",
+			"author": "DanZ"
+		},
+		"DemonAIO": {
+			"type": "champion",
+			"description": "Demon 恶魔合集",
+			"author": "Demon"
+		},
+		"Demon_Activator": {
+			"type": "champion",
+			"description": "Demon 恶魔活化剂",
+			"author": "Demon"
+		},
+		"EzAIO": {
+			"type": "champion",
+			"description": "Ez 合集",
+			"author": "Unknow"
+		},
+		"Fatality": {
+			"type": "champion",
+			"description": "Fatality 合集",
+			"author": "Unknow"
+		},
+		"Fx": {
+			"type": "champion",
+			"description": "Fx 合集",
+			"author": "Fx老师"
+		},
+		"FxActivator": {
+			"type": "activator",
+			"description": "Fx 活化剂",
+			"author": "Fx老师"
+		},
+		"FxLib": {
+			"type": "library",
+			"description": "Fx 必备库",
+			"author": "Fx老师"
+		},
+		"FxTools": {
+			"type": "utility",
+			"description": "Fx 工具集",
+			"author": "Fx老师"
+		},
+		"FxTracker": {
+			"type": "awareness",
+			"description": "Fx 意识",
+			"author": "Fx老师"
+		},
+		"GG AIO": {
+			"type": "champion",
+			"description": "GG合集",
+			"author": "GG"
+		},
+		"Hanbot Beasty": {
+			"type": "champion",
+			"description": "Hanbot Beasty 合集",
+			"author": "Unknow"
+		},
+		"Healer AIO": {
+			"type": "champion",
+			"description": "Healer-H合集",
+			"author": "Healer"
+		},
+		"IntAIO": {
+			"type": "champion",
+			"description": "Int合集",
+			"author": "Int"
+		},
+		"JUST - AIO": {
+			"type": "champion",
+			"description": "JUST 合集",
+			"author": "Unknow"
+		},
+		"Kiri AIO": {
+			"type": "champion",
+			"description": "Kiri-新K 合集",
+			"author": "Kiri"
+		},
+		"KleeAIO": {
+			"type": "champion",
+			"description": "Klee 合集",
+			"author": "Klee"
+		},
+		"KleeUtils": {
+			"type": "utility",
+			"description": "Klee 活化剂功能合集",
+			"author": "Klee"
+		},
+		"Kornis AIO": {
+			"type": "champion",
+			"description": "Kornis-老K合集",
+			"author": "Kornis"
+		},
+		"Mage AIO": {
+			"type": "champion",
+			"description": "Mage 合集",
+			"author": "Mage"
+		},
+		"MasterActivator": {
+			"type": "champion",
+			"description": "M活化剂",
+			"author": "Master"
+		},
+		"MasterAio": {
+			"type": "champion",
+			"description": "M合集",
+			"author": "Master"
+		},
+		"Moon Utility": {
+			"type": "other",
+			"description": "未知",
+			"author": "Unknow"
+		},
+		"Pixel-AIO": {
+			"type": "champion",
+			"description": "Pixel合集(LS移植系列)",
+			"author": "Pixel"
+		},
+		"Q-Aio": {
+			"type": "champion",
+			"description": "Q合集",
+			"author": "Q老师"
+		},
+		"RXing": {
+			"type": "champion",
+			"description": "R星合集",
+			"author": "R星"
+		},
+		"SA_AIO": {
+			"type": "champion",
+			"description": "SA 合集",
+			"author": "isas"
+		},
+		"SP-AIO": {
+			"type": "champion",
+			"description": "SP 合集",
+			"author": "SP"
+		},
+		"[BrianSharp] Activator": {
+			"type": "activator",
+			"description": "BS 活化剂",
+			"author": "BS"
+		},
+		"[BrianSharp] Successfull": {
+			"type": "champion",
+			"description": "BS 合集",
+			"author": "BS"
+		},
+		"[HGPro]AIO": {
+			"type": "champion",
+			"description": "皇冠Pro合集",
+			"author": "皇冠"
+		},
+		"[HGVip]AIO": {
+			"type": "champion",
+			"description": "皇冠VIP合集",
+			"author": "皇冠"
+		},
+		"[Viktor]AIO": {
+			"type": "champion",
+			"description": "V合集",
+			"author": "Viktor"
+		},
+		"[Viktor]Evade": {
+			"type": "evade",
+			"description": "V躲避",
+			"author": "Viktor"
+		},
+		"[Viktor]Utility": {
+			"type": "activator",
+			"description": "V活化剂",
+			"author": "Viktor"
+		},
+		"luna-aio": {
+			"type": "champion",
+			"description": "Luna 合集",
+			"author": "Luna"
+		},
+		"luna-utils": {
+			"type": "activator",
+			"description": "Luna 活化剂功能合集",
+			"author": "Luna"
+		}
+	},
+	"config_author": {
+		"Me": {
+			"Update_Time": "2024年11月24日",
+			"Change_Log": "unknow",
+			"Modes": {
+				"2K_qiangli": {
+					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_stronger_2k.zip",
+					"name": "强力-2K分辨率"
+				},
+				"2K_human": {
+					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_human_2k.zip",
+					"name": "人性化-2K分辨率"
+				},
+				"qiangli": {
+					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_stronger.zip",
+					"name": "强力-正常分辨率"
+				},
+				"human": {
+					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_human.zip",
+					"name": "人性化-正常分辨率"
+				}
+			}
+		}
+	},
+	"loader_note": "初版发布\n1.0",
+	"loader_ver": "1.0.0.0"
 }
