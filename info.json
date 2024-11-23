@@ -244,22 +244,22 @@
 	"config_author": {
 		"Me": {
 			"Update_Time": "2024年11月24日",
-			"Change_Log": "1. 4个模式 \n 2.测试",
+			"Change_Log": "1. 人性化-2K分辨率 \n2. 强力-2K分辨率\n3. 人性化-正常分辨率\n4.强力-正常分辨率",
 			"Modes": {
 				"2K_qiangli": {
-					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_stronger_2k.zip",
+					"link": "/noturnonthisoA/me_config/master/me_stronger_2k.zip",
 					"name": "强力-2K分辨率"
 				},
 				"2K_human": {
-					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_human_2k.zip",
+					"link": "/noturnonthisoA/me_config/master/me_human_2k.zip",
 					"name": "人性化-2K分辨率"
 				},
 				"qiangli": {
-					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_stronger.zip",
+					"link": "/noturnonthisoA/me_config/master/me_stronger.zip",
 					"name": "强力-正常分辨率"
 				},
 				"human": {
-					"link": "https://raw.githubusercontent.com/noturnonthisoA/me_config/master/me_human.zip",
+					"link": "/noturnonthisoA/me_config/master/me_human.zip",
 					"name": "人性化-正常分辨率"
 				}
 			}
