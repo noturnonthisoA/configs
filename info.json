@@ -243,9 +243,10 @@
 	},
 	"config_author": {
 		"Me": {
-			"Update_Time": "2024年11月24日",
-			"Change_Log": "1. 人性化-2K分辨率 \n2. 强力-2K分辨率\n3. 人性化-正常分辨率\n4.强力-正常分辨率",
-			"Modes": {
+            "description": "1. 人性化-2K分辨率 \n2. 强力-2K分辨率\n3. 人性化-正常分辨率\n4. 强力-正常分辨率",
+			"update_time": "2024年11月24日",
+			"change_log": "暂无",
+			"modes": {
 				"2K_qiangli": {
 					"link": "/noturnonthisoA/me_config/master/me_stronger_2k.zip",
 					"name": "强力-2K分辨率"
