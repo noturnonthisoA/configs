@@ -243,9 +243,9 @@
 	},
 	"config_author": {
 		"Me": {
-            "description": "1. 人性化-2K分辨率 \n2. 强力-2K分辨率\n3. 人性化-正常分辨率\n4. 强力-正常分辨率",
+            "description": "这是一份全新的缓存\n去除个人目的性, 根据每一个英雄脚本单独对比挑选出最适合的合集来做缓存\n争取做到每个人使用就开箱即用",
 			"update_time": "2024年11月24日",
-			"change_log": "这是一份全新的缓存\n去除个人目的性, 根据每一个英雄脚本单独对比挑选出最适合的合集来做缓存\n争取做到每个人使用就开箱即用",
+			"change_log": "1. 人性化-2K分辨率 \n2. 强力-2K分辨率\n3. 人性化-正常分辨率\n4. 强力-正常分辨率",
 			"modes": {
 				"2K_qiangli": {
 					"link": "/noturnonthisoA/me_config/master/me_stronger_2k.zip",
@@ -264,7 +264,22 @@
 					"name": "人性化-正常分辨率"
 				}
 			}
-		}
+		},
+        "测试": {
+            "description": "0\n1\n2\n3\n4\n5",
+			"update_time": "2024年11月24日",
+			"change_log": "0\n1\n2\n3\n4\n5",
+			"modes": {
+				"qiangli": {
+					"link": "/noturnonthisoA/me_config/master/me_stronger.zip",
+					"name": "强力"
+				},
+				"human": {
+					"link": "/noturnonthisoA/me_config/master/me_human.zip",
+					"name": "人性化"
+				}
+			}
+        }
 	},
 	"loader_note": "初版发布\n1.0",
 	"loader_ver": "1.0.0.0"
